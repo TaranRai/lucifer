@@ -1,6 +1,6 @@
 # lucifer
 
-My Pytorch environment and all dependencies to run experiments for digital pathology.
+My PyTorch environment and all dependencies to run experiments for digital pathology.
 
 ## Requirements
 A requirments.txt file has been provided so you can install all the relevant dependencies for these extraction methods. Navigate to the directory contaning this file and type the following command in your terminal to install these packages:
