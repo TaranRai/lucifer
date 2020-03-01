@@ -1,0 +1,6 @@
+openslide-python
+tqdm
+argparse
+h5py
+pathlib
+pandas
